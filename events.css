@@ -1,0 +1,135 @@
+
+.event-banner{
+    height: 100px;
+    width: 500px;
+    object-fit: cover;
+    background-position: center;
+}    
+header{
+    position: fixed;
+    display: block;
+    background-color: white;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 1000;
+    
+}
+
+.logo-design{
+    height: 35px;
+    width: auto;
+    cursor: pointer;
+    margin-left: 15px;
+    margin-top: 15px;
+    display: inline-block;
+   
+}
+
+
+ul{
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li{
+    list-style: none;
+    margin-left: 15px;
+    margin-top: 27px;
+    font-size: 14px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: rgb(27, 27, 135);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+
+ul li a:hover{
+    color: rgb(132, 93, 21);
+}
+
+.Eventpic-design{
+    width: 1200PX;
+    height:400PX;
+    object-fit: contain;
+    margin-left: 0px;
+    margin-right: 0px;
+    overflow: hidden; 
+    filter: blur(1px)
+     
+}
+
+.overlay-text{
+    position: absolute;
+    top: 80px;
+    left: 500px;
+    bottom: 50px;
+    color: white;
+    font-size: 72px;
+    font-weight: 700px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    text-align: center;
+    display: inline-block;
+    margin-top: 70PX;
+    margin-bottom: 0;
+    padding: 20px;
+    z-index: 1px;
+    
+}
+
+.upcoming-events{
+    padding: 20px;
+}
+
+h1{
+    font-size: 38px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(8, 8, 94);
+    line-height: 1.2em;
+    margin-top: 0;
+    margin-bottom: 30px;
+    font-weight: 600px;
+    display: block;
+    margin-top: 20px;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    margin-top: 0;
+}
+
+.container {
+    display: flex;
+}
+
+.picture-box {
+    width: 300px;
+    margin-right: 100px; 
+    border: 1px solid #ccc; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    overflow: hidden;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.details {
+    padding: 15px;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+.heading4{
+    font-size: 20px;
+}

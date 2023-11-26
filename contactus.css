@@ -1,0 +1,138 @@
+header{
+    position: fixed;
+    display: block;
+    background-color: white;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 1000;
+    
+}
+
+.logo-design{
+    height: 35px;
+    width: auto;
+    cursor: pointer;
+    margin-left: 15px;
+    margin-top: 15px;
+    display: inline-block;
+   
+}
+
+
+ul{
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li{
+    list-style: none;
+    margin-left: 15px;
+    margin-top: 27px;
+    font-size: 14px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: rgb(27, 27, 135);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+
+ul li a:hover{
+    color: rgb(132, 93, 21);
+}
+
+.background-image{
+    width: 1200PX;
+    height:400PX;
+    object-fit: contain;
+    margin-left: 0px;
+    margin-right: 0px;
+    overflow: hidden; 
+    filter: blur(2px)
+     
+}
+
+.overlay-text{
+    position: absolute;
+    top: 80px;
+    left: 400px;
+    bottom: 50px;
+    color: white;
+    font-size: 72px;
+    font-weight: 700px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    text-align: center;
+    display: inline-block;
+    margin-top: 70PX;
+    margin-bottom: 0;
+    padding: 20px;
+    z-index: 1px;
+    
+}
+
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+
+        .container {
+            display: flex;
+            max-width: 1200px;
+            margin: 20px auto;
+        }
+
+        .box {
+            flex: 1;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            padding: 20px;
+            margin: 0 10px;
+        }
+
+        .form-box {
+            color: rgb(8, 8, 94);
+  
+        }
+
+        .contact-box {
+            color:rgb(8, 8, 94) ;
+           
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+        }
+
+        label {
+            margin-bottom: 5px;
+        }
+
+        input,
+        textarea {
+            padding: 8px;
+            margin-bottom: 15px;
+        }
+
+        button {
+            padding: 8px; 
+            background-color: rgb(8, 8, 94);
+            color:white;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+            width: 100px; 
+        }
+   
+       

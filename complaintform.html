@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="complaintform.css">
+</head>
+<body>
+    <div class="complaintform-container">
+        <h2>Complaint Form</h2>
+        <p>Students that have complaints of any kind in the computer science department</p>
+        <form action="submit_registration.php" method="post">
+            <label for="Name">Name:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="level">level:</label>
+            <input type="level" id="level" name="level" required>
+
+            <label for="id">ID:</label>
+            <input type="id" id="level" name="ID" required>
+
+            <label for="phoneNumber">Phone Number:</label>
+            <input type="tel" id="phoneNumber" name="phoneNumber" required>
+
+            <label for="date">Date:</label>
+            <input type="date" id="date" name="date" required>
+
+            <label for="course">Course:</label>
+            <select id="course" name="course" required>
+                <option value="" disabled selected>Select one</option>
+                <option value="IT">IT</option>
+                <option value="CSCD">CSCD</option>
+            </select>
+
+            <button type="submit">Submit</button>
+        </form>    
+    </div>
+           
+        
+</body>
+</html>

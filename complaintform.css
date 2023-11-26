@@ -1,0 +1,65 @@
+/* Style your complaint form */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f4f4f4;
+}
+
+.complaintform-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 500px;
+    border: 1px solid #ddd;
+    margin:  50px auto; 
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Responsive styles */
+@media only screen and (max-width: 600px) {
+    .registration-container {
+        max-width: 100%;
+    }
+}
+
+label {
+    margin-top: 10px;
+}
+
+input,
+select {
+    padding: 8px;
+    margin-top: 5px;
+}
+
+button {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    height: 40px;
+    width: 70px;
+    ;
+}
+
+button:hover {
+    background-color: rgb(46, 46, 168);
+}
+
+/* Style for vertical arrangement of checkboxes */
+.checkbox-item {
+    margin-bottom: 8px;
+}
+
