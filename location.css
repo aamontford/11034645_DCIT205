@@ -151,8 +151,8 @@ img{
 
 .arrow-box {
     position: absolute;
-    bottom: 68.5px;
-    right: 849px;
+    top: 1528px;
+    right: 838px;
     transform: translateY(-50%);
     background-color: #3498db;
     color: #fff;
@@ -164,4 +164,53 @@ img{
 
 ul li a:hover{
     color: goldenrod;
+}
+.map-container{
+    text-align: center;
+}
+.text-container {
+    margin-left: 20px; 
+    text-align: right;
+    align-self: flex-end;
+}
+.container {
+    display: flex;
+    flex-direction: column; 
+}
+.flexbox-container {
+    display:flex;
+    margin-top: 30px;
+}
+
+.g-pic {
+    flex: 1;
+}
+.pic-design{
+    width: 600px; 
+    height: 400px;
+    margin-right: 20px;
+}
+
+.text-portion{
+    flex: 1;
+    padding: 20px; 
+}
+
+p {
+    margin: 0;
+}
+
+.O-title{
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    color: rgb(8, 8, 94);
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 1.2em;
+    display: block;
+    margin-top: 0;
+
 }
