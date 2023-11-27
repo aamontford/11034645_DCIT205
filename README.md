@@ -11,18 +11,39 @@ UNIVERSITY OF GHANA COMPUTER SCIENCE DEPARTMENT WEBSITE README
 
 Instructions
 Clone and Set Up 
- To clone and set up the project, I used the following steps:
+ To clone the project, I used the following steps:
  1. Open a terminal window.
  2. Run the following command to clone the repository:
     git clone https://github.com/aamontford/aamontford_11034645.git
  3. Navigate to the project directory:
     cd aamontford_11034645
 
+To set up the project:
+1. Fork the repository on GitHub.
+2. Create a branch for your changes.
+3. Implement your changes and make sure to add tests for new functionality.
+4. Commit your changes and push them to your fork.
+5. Create a pull request against the main repository.
+6. Address any feedback from the maintainers and merge your pull request.
+
 Developer Information
 Name: Ama Addae Montford
 Student ID: 11034645
 
 Screenshots of Webpages
+
+
+
+
+
+
+My Learning Experience
+  Throughout the development of this project, I have learnt a lot of things. Below are some of them:
+1. I have learned more about using git and github to keep track of code changes, and ensure a consistent codebase.
+
+2. I have overcome some challenges related to applying external css as well as making pull requests in relation to git.
+
+3. I improved my skills in designing user-friendly interfaces.
 
 
 

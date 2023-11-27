@@ -151,8 +151,8 @@ img{
 
 .arrow-box {
     position: absolute;
-    bottom: 68.5px;
-    right: 849px;
+    top: 1471px;
+    right: 837px;
     transform: translateY(-50%);
     background-color: #3498db;
     color: #fff;
@@ -164,4 +164,43 @@ img{
 
 ul li a:hover{
     color: goldenrod;
+}
+.active {
+    color: #f00;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 2
+}
+
+.video-container {
+    width: 80%; 
+    overflow: hidden;
+    max-height: 60vh;
+}
+
+.video-player {
+    width: 100%;
+    height: auto;
+   
+}
+.text-container {
+    margin-top: 20px; 
+}
+.firstheading-h2{
+    color: darkblue;
+    text-align: center;
+}
+h2{
+    color: darkblue;
+}
+p{
+    color: darkgrey;
+}
+.research-list{
+    color: darkgrey;
 }
