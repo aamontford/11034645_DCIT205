@@ -36,7 +36,7 @@ body {
 .menu li a {
     display: inline-block;
     text-decoration: none;
-    color: var(--color2); /* Set text color */
+    color: var(--color2); 
     text-align: center;
     transition: 0.15s ease-in-out;
     position: relative;
