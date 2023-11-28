@@ -32,52 +32,39 @@ Student ID: 11034645
 
 Screenshots of Webpages
 About Us Webpage
-![Aboutus-1](images/Aboutus-1.png)
-![Aboutus-2](images/Aboutus-2.png)
-![Aboutus-3](images/Aboutus-3.png)
-![Aboutus-4](images/Aboutus-4.png)
-![Aboutus-5](images/Aboutus-5.png)
-![Aboutus-6](images/Aboutus-6.png)
-![Aboutus-7](images/Aboutus-7.png)
+![Screenshot of Aboutus page](images/aboutus.png)
 
 Complaint webpage
-![Complaintform-1](images/Complaintform-1.png)
-![Complaintform-2](images/Complaintform-2.png)
+![Screenshot of Student Complaintform](images/complaintform.png)
+
 
 Contactus webpage
-![Contactus-1](images/contactus-1.png)
-![Contactus-2](images/contactus-2.png)
+![Screenshot of Contactus page](images/contactus.png)
 
 Events webpage
-![Events-1](images/Events-1.png)
-![Evens-2](images/Events-2.png)
-![Events-3](images/Events-3.png)
+![Screenshot of Events page](images/events.png)
 
 Location webpage
-![Location-1](images/locationpage-1.png)
-![Location-2](images/locationpage-2.png)
-![Location-3](images/locationpage-3.png)
+![Screenshot of Location page](images/locationpage.png)
+
 
 Homepage 
-![Homepage-1](images/homepage-1.png)
-![Homepage-2](images/homepage-2.png)
+![Screenshot of homepage](images/homepage.png)
 
 Level200timetable webpage
-![Lvl200timetable-1](images/lvl200timetablepage-1.png)
-![Lvl200timetable-2](images/lvl200timetablepage-2.png)
+![Screenshot of Level 200 timetable page](images/lvl200timetablepage.png)
+
 
 Research webpage
-![Research-1](images/Research-1.png)
-![Research-2](images/Research-2.png)
-![Research-3](images/Research-3.png)
+![Screenshot of Research page](images/researches.png)
+
 
 Resources webpage
-![Resources-1](images/Resources-1.png)
-![Resources-2](images/Resources-2.png)
+![Screenshot of Resources page](images/resources.png)
+
 
 Shortcourse registration webpage
-![Shortcourseregistration-1](images/Shortcourseregistration-1.png)
-![Shortcourseregistration-2](images/Shortcourseregistration-2.png)
+![Screenshot of Shortcourse registration page](images/shortcourseregistration.png)
 
 My Learning Experience
   Throughout the development of this project, I have learnt a lot of things. Below are some of them:
