@@ -31,11 +31,53 @@ Name: Ama Addae Montford
 Student ID: 11034645
 
 Screenshots of Webpages
+About Us Webpage
+![Aboutus-1](images/Aboutus-1.png)
+![Aboutus-2](images/Aboutus-2.png)
+![Aboutus-3](images/Aboutus-3.png)
+![Aboutus-4](images/Aboutus-4.png)
+![Aboutus-5](images/Aboutus-5.png)
+![Aboutus-6](images/Aboutus-6.png)
+![Aboutus-7](images/Aboutus-7.png)
 
+Complaint webpage
+![Complaintform-1](images/Complaintform-1.png)
+![Complaintform-2](images/Complaintform-2.png)
 
+Contactus webpage
+![Contactus-1](images/contactus-1.png)
+![Contactus-2](images/contactus-2.png)
 
+Events webpage
+![Events-1](images/Events-1.png)
+![Evens-2](images/Events-2.png)
+![Events-3](images/Events-3.png)
 
+Location webpage
+![Location-1](images/locationpage-1.png)
+![Location-2](images/locationpage-2.png)
+![Location-3](images/locationpage-3.png)
 
+Homepage 
+![Homepage-1](images/homepage-1.png)
+![Homepage-2](images/homepage-2.png)
+
+Level200timetable webpage
+![Lvl200timetable-1](images/lvl200timetablepage-1.png)
+![Lvl200timetable-2](images/lvl200timetablepage-2.png)
+
+Research webpage
+![Research-1](images/Research-1.png)
+![Research-2](images/Research-2.png)
+![Research-3](images/Research-3.png)
+
+Resources webpage
+![Resources-1](images/Resources-1.png)
+![Resources-2](images/Resources-2.png)
+
+Shortcourse registration webpage
+![Shortcourseregistration-1](images/Shortcourseregistration-1.png)
+![Shortcourseregistration-2](images/Shortcourseregistration-2.png)
 
 My Learning Experience
   Throughout the development of this project, I have learnt a lot of things. Below are some of them:
